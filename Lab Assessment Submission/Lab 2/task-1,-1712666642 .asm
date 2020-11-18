@@ -10,7 +10,7 @@
 	MOV AX, C2                   ; allocate 2nd interger
 	ADD BX, AX                   ; add value and store inside of BX register
 	
-	MOV AX, C2                   ; allocate 3rd interger
+	MOV AX, C3                   ; allocate 3rd interger
 	ADD BX, AX                   ; add value and store inside of BX register
 	
 	ret
